@@ -1,0 +1,16 @@
+{
+  "name": "google-api-test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "oauth.js",
+  "dependencies": {
+    "express": "4.14.0",
+    "googleapis": "12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manaten <manaten@manaten.net> (http://manaten.net/)",
+  "license": "UNLICENSED"
+}
